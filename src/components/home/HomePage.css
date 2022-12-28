@@ -1,0 +1,21 @@
+
+.home-page-div {
+    width: 100%;
+}
+
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+
+.intro-block {
+    padding-left: 20px;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+}
+
+.description {
+    font-style: italic;
+}
